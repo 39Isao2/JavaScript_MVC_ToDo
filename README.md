@@ -1,2 +1,2 @@
 # ToDo
-JavaScriptでToDoアプリ　（全盛期）
+JavaScriptでToDoアプリ（jsonファイルから一発ギャグ取得）
